@@ -10,10 +10,16 @@ Paper Dashboard Angular is a Bootstrap Admin Template which combines soft colors
 
  Paper Dashboard Angular is built using the same design language as [Paper Kit](http://www.creative-tim.com/product/paper-kit), which you can use for the presentation pages of your website. You can easily use them together, or pick between them depending on the project you have.
 
+ ## Modifications by [svrooij](https://github.com/svrooij/angular-ct-paper-dash)
+
+ - Updated packages
+ - Added deploy to [github pages](https://svrooij.github.io/angular-ct-paper-dash/)
+
 
 ## Links:
 
 + [Live Preview](http://pd-angular.creative-tim.com/dashboard)
++ [Deployed to Github pages](https://svrooij.github.io/angular-ct-paper-dash/)
 + [Paper Dashboard PRO Angular](https://www.creative-tim.com/product/paper-dashboard-pro-angular)
 + [Paper Kit - For Front End Development](https://www.creative-tim.com/product/paper-kit?ref=github-pd-angular)
 
@@ -23,6 +29,7 @@ Paper Dashboard Angular is a Bootstrap Admin Template which combines soft colors
 Quick start options:
 
 - [Download from Creative Tim](https://www.creative-tim.com/product/paper-dashboard-angular).
+- [Clone from repo or even better your own fork](https://github.com/svrooij/angular-ct-paper-dash).
 
 ## Terminal Commands
 
@@ -33,6 +40,7 @@ Quick start options:
 5. Then: ```npm install```
 6. And: ```ng serve```
 7. Navigate to: [http://localhost:4200/](http://localhost:4200/)
+8. Deploy your fork to Github Pages, ```npm run deploy```
 
 ### What's included
 
